@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="678a77bc-8d32-45e7-bd0e-4e9e43d8607f" name="Changes" comment="day 2 (parts 1 &amp; 2)">
-      <change afterPath="$PROJECT_DIR$/inputs/day3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day3.java" afterDir="false" />
+    <list default="true" id="678a77bc-8d32-45e7-bd0e-4e9e43d8607f" name="Changes" comment="day 3 (parts 1 &amp; 2)">
+      <change afterPath="$PROJECT_DIR$/inputs/day4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +45,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.day3">
+  <component name="RunManager" selected="Application.day4">
     <configuration name="day1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day1" />
       <module name="AdventofCode2024" />
@@ -67,8 +67,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="day4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day4" />
+      <module name="AdventofCode2024" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.day4" />
         <item itemvalue="Application.day3" />
         <item itemvalue="Application.day2" />
         <item itemvalue="Application.day1" />
@@ -105,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1734592342303</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="day 3 (parts 1 &amp; 2)">
+      <created>1734595762308</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1734595762308</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -123,6 +138,7 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="day 1 (parts 1 &amp; 2)" />
     <MESSAGE value="day 2 (parts 1 &amp; 2)" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 2 (parts 1 &amp; 2)" />
+    <MESSAGE value="day 3 (parts 1 &amp; 2)" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 3 (parts 1 &amp; 2)" />
   </component>
 </project>
