@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="678a77bc-8d32-45e7-bd0e-4e9e43d8607f" name="Changes" comment="day 3 (parts 1 &amp; 2)">
-      <change afterPath="$PROJECT_DIR$/inputs/day4.txt" afterDir="false" />
+    <list default="true" id="678a77bc-8d32-45e7-bd0e-4e9e43d8607f" name="Changes" comment="git ignore stuff">
       <change afterPath="$PROJECT_DIR$/src/day4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -120,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1734595762308</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="git ignore stuff">
+      <created>1734599970975</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1734599970975</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -139,6 +145,7 @@
     <MESSAGE value="day 1 (parts 1 &amp; 2)" />
     <MESSAGE value="day 2 (parts 1 &amp; 2)" />
     <MESSAGE value="day 3 (parts 1 &amp; 2)" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 3 (parts 1 &amp; 2)" />
+    <MESSAGE value="git ignore stuff" />
+    <option name="LAST_COMMIT_MESSAGE" value="git ignore stuff" />
   </component>
 </project>
